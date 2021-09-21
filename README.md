@@ -65,6 +65,8 @@
 ### Presentation
 - [デジタル・日本の実現に向けたデータ格付け数理基盤に関するシンポジウム](https://imi.kyushu-u.ac.jp/~data_rating_sympo/), Dec.2020
 
+### Participation
+- [The first public seminar "Science Cafe"](https://beyondai.jp/contents/2021/09/17/20210917/?lang=en), 17.Sep.2021
 
 ### News
 - [ソフトバンクと九州大学が、LPガス容器の配送最適化の共同研究を実施](https://www.softbank.jp/corp/news/press/sbkk/2021/20210913_02/)
