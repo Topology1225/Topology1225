@@ -18,4 +18,4 @@ jobs:
           SHOW_OS: "True"
           SHOW_TIMEZONE: "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROFILE_VIEWS: "False" 
