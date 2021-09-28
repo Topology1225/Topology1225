@@ -59,7 +59,7 @@
 - B.S. in Mathematics, Kyushu University(Apr.2016 - Mar.2020 in Japan)
 
 ### Portfolios
-- [Task Assignment Problem](https://hub.binder.fixstars.com/user/fixstars-quantum-demo-cg7jy2ht/notebooks/ja/samples/task-assignment.ipynb)
+- [Task Assignment Problem](https://binder.fixstars.com/v2/gh/fixstars/quantum-demo/master/?urlpath=notebooks/ja/samples/task-assignment.ipynb)
 - [Portofolio Optmization](https://binder.fixstars.com/v2/gh/fixstars/quantum-demo/master/?urlpath=notebooks/ja/samples/portofolio.ipynb)
 
 ### Presentation
