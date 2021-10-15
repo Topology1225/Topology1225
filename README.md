@@ -71,6 +71,9 @@
 ### News
 - [ソフトバンクと九州大学が、LPガス容器の配送最適化の共同研究を実施](https://www.softbank.jp/corp/news/press/sbkk/2021/20210913_02/)
 
+### Internship
+- 2019.Feb 12 - 2019.Feb22, Panasonic Corp
+
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topology1225&show_icons=true&theme=radical)
