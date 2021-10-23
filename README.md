@@ -57,9 +57,9 @@
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/linux.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/git.png"></code>
 <code><img height="40" width="40" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"></code>
+<code><img height="40" width="100" src="https://wiki.centos.org/ArtWork/Brand/Logo?action=AttachFile&do=get&target=centos-logo-light.png"></code>
 <code><img height="40" width="40" src="./figs/Octocat.png"></code>
 <code><img height="40" width="40" src="https://about.gitlab.com/images/logos/wm_web.svg"></code>
-<code><img height="40" width="100" src="https://wiki.centos.org/ArtWork/Brand/Logo?action=AttachFile&do=get&target=centos-logo-light.png"></code>
 <code><img height="40" width="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
 <br>
 <code><img height="40" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
@@ -90,8 +90,10 @@
 
 ### Portfolios
 - [Task Assignment Problem](https://binder.fixstars.com/v2/gh/fixstars/quantum-demo/master/?urlpath=notebooks/ja/samples/task-assignment.ipynb)<br>
-  The source code can also be found [here](https://gihyo.jp/magazine/SD/archive/2021/202111) .
+  The source code can also be found [here](https://gihyo.jp/magazine/SD/archive/2021/202111).
 - [Portofolio Optmization](https://binder.fixstars.com/v2/gh/fixstars/quantum-demo/master/?urlpath=notebooks/ja/samples/portofolio.ipynb)
+- [CUDRA](https://pypi.org/project/cudra/0.0.3/), released: Oct 16, 2021.<br>
+  A python library for the job  scheduler when using cuda.
 
 ### Presentation
 - [デジタル・日本の実現に向けたデータ格付け数理基盤に関するシンポジウム](https://imi.kyushu-u.ac.jp/~data_rating_sympo/), Dec.2020
