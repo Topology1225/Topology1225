@@ -1,13 +1,17 @@
 ![header](./header.png)
 
+<p align="center">
 <a href="https://satoharu25.hatenablog.com/">
-  <img align="left" src="https://img.shields.io/website?down_color=red&down_message=down&label=MY%20BLOG&style=for-the-badge&up_message=open&up_color=blue&url=https://satoharu25.hatenablog.com/" />
+  <img src="https://img.shields.io/website?down_color=red&down_message=down&label=MY%20BLOG&style=for-the-badge&up_message=open&up_color=blue&url=https://satoharu25.hatenablog.com/" />
 </a>
 <a href="https://twitter.com/Haruki0804S">
-  <img align="left" src="https://img.shields.io/twitter/follow/Haruki0804S?logo=Twitter&style=for-the-badge" />
+  <img src="https://img.shields.io/twitter/follow/Haruki0804S?logo=Twitter&style=for-the-badge" />
 </a>
+  <img src="https://gpvc.arturio.dev/Topology1225" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Topology1225?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 
-<br>
 <br>
 
 ## Programming Languages
@@ -35,6 +39,32 @@
 ![logo](https://img.shields.io/badge/Julia-$yellow?style=plastic&logo=julia&color=black)
 ![logo](https://img.shields.io/badge/React-$yellow?style=plastic&logo=react&color=lightblue)
 ![logo](https://img.shields.io/badge/Kubernetes-$yellow?style=plastic&logo=kubernetes&color=blue)
+
+<!--
+<code><img height="40" width="40" src=""></code>
+-->
+<p align="center">
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="40" width="40" src="https://prev.rust-lang.org/logos/rust-logo-256x256.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
+<code><img height="40" width="40" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/html.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/css.png"></code>
+<br>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1010px-Apple_logo_black.svg.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/linux.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/git.png"></code>
+<code><img height="40" width="40" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"></code>
+<code><img height="40" width="40" src="./figs/Octocat.png"></code>
+<code><img height="40" width="40" src="https://about.gitlab.com/images/logos/wm_web.svg"></code>
+<code><img height="40" width="100" src="https://wiki.centos.org/ArtWork/Brand/Logo?action=AttachFile&do=get&target=centos-logo-light.png"></code>
+<code><img height="40" width="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
+<br>
+<code><img height="40" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
+<code><img height="40" width="200" src="https://amplify.fixstars.com/assets/img/amplify-logo-white.svg">
+</p>
 
 
 ## Aboud me
