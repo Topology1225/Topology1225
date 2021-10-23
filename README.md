@@ -105,10 +105,10 @@
 - [ソフトバンクと九州大学が、LPガス容器の配送最適化の共同研究を実施](https://www.softbank.jp/corp/news/press/sbkk/2021/20210913_02/)
 
 ### Experience
-- Internship in [Panasonic Corporation.](https://na.panasonic.com/us/home-and-building-solutions/ventilation-indoor-air-quality/#section01) [12.Feb. 2019 - 22.Feb. 2019 in Osaka, Japan]<br>
-   Software Development aboud mathematical optimization using Simulated Annealing(SA).
+- Internship in [Panasonic Corporation](https://na.panasonic.com/us/home-and-building-solutions/ventilation-indoor-air-quality/#section01) [12.Feb. 2019 - 22.Feb. 2019 in Osaka, Japan]. 
+  <br>Software Development aboud mathematical optimization using Simulated Annealing(SA).
   
-- Amplify Apps Developer in [Fixstars Corporation.](https://www.fixstars.com/en/) [Feb.2021 - present in Tokyo, Japan] <br>
+- Amplify Apps Developer in [Fixstars Corporation](https://www.fixstars.com/en/) [Feb.2021 - present in Tokyo, Japan]. 
   Application Development aboud [Amplify Annealing Engine](https://amplify.fixstars.com/en/) using Amplify SDK.
 
 
