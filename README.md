@@ -125,9 +125,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,243 Contributions in the Year 2021
+> 🏆 1,244 Contributions in the Year 2021
  > 
-> 📦 68.4 kB Used in GitHub's Storage 
+> 📦 67.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -199,7 +199,7 @@ Rich Text Format         1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Topology1225/Topology1225/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/10/2021
+ Last Updated on 01/11/2021
 <!--END_SECTION:waka-->
 
 
