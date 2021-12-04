@@ -91,6 +91,11 @@
 ### Portfolios
 - [Task Assignment Problem](https://binder.fixstars.com/v2/gh/fixstars/quantum-demo/master/?urlpath=notebooks/ja/samples/task-assignment.ipynb)<br>
   The source code can also be found [here](https://gihyo.jp/magazine/SD/archive/2021/202111).
+
+  -  [Software Design 2021年12月号](https://gihyo.jp/magazine/SD/archive/2021/202112)
+  -  [Software Design 2021年11月号](https://gihyo.jp/magazine/SD/archive/2021/202111)
+  
+
 - [Portofolio Optmization](https://binder.fixstars.com/v2/gh/fixstars/quantum-demo/master/?urlpath=notebooks/ja/samples/portofolio.ipynb)
 - [CUDRA](https://pypi.org/project/cudra/0.0.3/), released: Oct 16, 2021.<br>
   A python library for the job  scheduler when using cuda.
