@@ -120,6 +120,7 @@
   Application Development aboud [Amplify Annealing Engine](https://amplify.fixstars.com/en/) using Amplify SDK.
 
 ### Patents
+  特願2021-136392
   
 ### Collaborator
   Nariaki Tateiwa: https://nariaki3551.github.io/index.html 
