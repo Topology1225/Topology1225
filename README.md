@@ -119,6 +119,10 @@
 - Amplify Apps Developer in [Fixstars Corporation](https://www.fixstars.com/en/) [Feb.2021 - present in Tokyo, Japan]. 
   Application Development aboud [Amplify Annealing Engine](https://amplify.fixstars.com/en/) using Amplify SDK.
 
+### Patents
+  
+### Collaborator
+  Nariaki Tateiwa: https://nariaki3551.github.io/index.html 
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topology1225&show_icons=true&theme=radical)
