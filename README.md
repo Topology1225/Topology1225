@@ -84,8 +84,7 @@
 ## Profile
 
 ### Education
--  M.S. in Mathematics, Kyushu University(Apr.2020 - present in Japan)
-
+-  M.S. in Mathematics, Kyushu University(Apr.2020 - Mar.2022 in Japan)
 - B.S. in Mathematics, Kyushu University(Apr.2016 - Mar.2020 in Japan)
 
 ### Publications
