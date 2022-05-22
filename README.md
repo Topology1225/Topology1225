@@ -89,6 +89,7 @@
 - B.S. in Mathematics, Kyushu University(Apr.2016 - Mar.2020 in Japan)
 
 ### Publications
+ - Keiichiro Yamamura, **Haruki Sato**, Nariaki Tateiwa, Nozomi Hata, Katsuki Fujisawa, Issa Oe, Hiroki Ishikura, Toru Mitsutake, Diversified Adversarial Attacks based on Conjugate Gradient Method, Thirty-ninth International Conference on Machine Learning(ICML2022), paper link is https://icml.cc/Conferences/2022/Schedule?showEvent=16955.
  - Akihiro Yoshida, **Haruki Sato**, Shiori Uchiumi, Nariaki Tateiwa, Daisuke Kataoka, Akira Tanaka, Nozomi Hata, Yousuke Yatsushiro, Ayano Ide, Hiroki Ishikura, Shingo Egi, Miyu Fujii, Hiroki Kai, Katsuki Fujisawa, Long-Term Optimal Delivery Planning for Replacing the Liquefied Petroleum Gas Cylinder, arxiv preprint, paper link is [here](https://arxiv.org/abs/2112.12530?context=cs.DM).
   
 ### Portfolios
