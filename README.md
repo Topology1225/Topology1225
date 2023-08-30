@@ -66,57 +66,50 @@
 <code><img height="40" width="200" src="https://amplify.fixstars.com/assets/img/amplify-logo-white.svg">
 </p>
 
-
 ## Aboud me
-
-- 🔭 I’m a second year Master's Student in applied mathematics at Kyushu University.
-
-- 🌱 I’m currently learning the follows.
-   - Mathematical Optimization
-   - Machine Learning
-   - Deep Learning (mainly computer vision)
-   - Quantum Computer (Combinatorial optimization)
-   - Industrial Application
++ 🌱 I’m currently learning the following.
+  + Mathematical Optimization
+  + Machine Learning
+  + Deep Learning (mainly computer vision)
+  + Quantum Computer (Combinatorial optimization)
+  + Industrial Application
 
 
-- 🧑‍💻 My research topic is about adversarial examples, anomaly detection and time series forecasting.
++ 🧑‍💻 My research topic is about adversarial examples, anomaly detection, and time series forecasting.
 
 ## Profile
 
 ### Education
--  M.S. in Mathematics, Kyushu University(Apr.2020 - Mar.2022 in Japan)
-- B.S. in Mathematics, Kyushu University(Apr.2016 - Mar.2020 in Japan)
++ M.S. in Mathematics, Kyushu University(Apr.2020 - Mar.2022 in Japan)
++ B.S. in Mathematics, Kyushu University(Apr.2016 - Mar.2020 in Japan)
 
 ### Publications
- - Keiichiro Yamamura, **Haruki Sato**, Nariaki Tateiwa, Nozomi Hata, Katsuki Fujisawa, Issa Oe, Hiroki Ishikura, Toru Mitsutake, Diversified Adversarial Attacks based on Conjugate Gradient Method, Thirty-ninth International Conference on Machine Learning(ICML2022), paper link is https://icml.cc/Conferences/2022/Schedule?showEvent=16955.
- - Akihiro Yoshida, **Haruki Sato**, Shiori Uchiumi, Nariaki Tateiwa, Daisuke Kataoka, Akira Tanaka, Nozomi Hata, Yousuke Yatsushiro, Ayano Ide, Hiroki Ishikura, Shingo Egi, Miyu Fujii, Hiroki Kai, Katsuki Fujisawa, Long-Term Optimal Delivery Planning for Replacing the Liquefied Petroleum Gas Cylinder, arxiv preprint, paper link is [here](https://arxiv.org/abs/2112.12530?context=cs.DM).
+ + Keiichiro Yamamura, **Haruki Sato**, Nariaki Tateiwa, Nozomi Hata, Katsuki Fujisawa, Issa Oe, Hiroki Ishikura, Toru Mitsutake, Diversified Adversarial Attacks based on Conjugate Gradient Method, Thirty-ninth International Conference on Machine Learning(ICML2022), paper link is https://icml.cc/Conferences/2022/Schedule?showEvent=16955.
+ + Akihiro Yoshida, **Haruki Sato**, Shiori Uchiumi, Nariaki Tateiwa, Daisuke Kataoka, Akira Tanaka, Nozomi Hata, Yousuke Yatsushiro, Ayano Ide, Hiroki Ishikura, Shingo Egi, Miyu Fujii, Hiroki Kai, Katsuki Fujisawa, Long-Term Optimal Delivery Planning for Replacing the Liquefied Petroleum Gas Cylinder, arxiv preprint, paper link is [here](https://arxiv.org/abs/2112.12530?context=cs.DM).
   
 ### Portfolios
-- [Task Assignment Problem](https://binder.fixstars.com/v2/gh/fixstars/quantum-demo/master/?urlpath=notebooks/ja/samples/task-assignment.ipynb)<br>
-  The source code can also be found [here](https://gihyo.jp/magazine/SD/archive/2021/202111).
-
-  -  [Software Design 2021年12月号](https://gihyo.jp/magazine/SD/archive/2021/202112)
-  -  [Software Design 2021年11月号](https://gihyo.jp/magazine/SD/archive/2021/202111)
-  
-
-- [Portofolio Optmization](https://binder.fixstars.com/v2/gh/fixstars/quantum-demo/master/?urlpath=notebooks/ja/samples/portofolio.ipynb)
-- [CUDRA](https://pypi.org/project/cudra/0.0.3/), released: Oct 16, 2021.<br>
-  A python library for the job  scheduler when using cuda.
+[Task Assignment Problem](https://binder.fixstars.com/v2/gh/fixstars/quantum-demo/master/?urlpath=notebooks/ja/samples/task-assignment.ipynb)
+The source code can also be found [here](https://gihyo.jp/magazine/SD/archive/2021/202111).
+[Software Design 2021年12月号](https://gihyo.jp/magazine/SD/archive/2021/202112)
+[Software Design 2021年11月号](https://gihyo.jp/magazine/SD/archive/2021/202111)
+[Portofolio Optmization](https://binder.fixstars.com/v2/gh/fixstars/quantum-demo/master/?urlpath=notebooks/ja/samples/portofolio.ipynb)
+[CUDRA](https://pypi.org/project/cudra/0.0.3/), released: Oct 16, 2021.<br>
+  A Python library for the job  scheduler when using cuda.
 
 ### Presentation
-- [デジタル・日本の実現に向けたデータ格付け数理基盤に関するシンポジウム](https://imi.kyushu-u.ac.jp/~data_rating_sympo/), Dec.2020
+[デジタル・日本の実現に向けたデータ格付け数理基盤に関するシンポジウム](https://imi.kyushu-u.ac.jp/~data_rating_sympo/), Dec.2020
 
 ### Participation
-- [The first public seminar "Science Cafe"](https://beyondai.jp/contents/2021/09/17/20210917/?lang=en), 17.Sep.2021
+[The first public seminar "Science Cafe"](https://beyondai.jp/contents/2021/09/17/20210917/?lang=en), 17.Sep.2021
 
 ### News
-- [ソフトバンクと九州大学が、LPガス容器の配送最適化の共同研究を実施](https://www.softbank.jp/corp/news/press/sbkk/2021/20210913_02/)
+[ソフトバンクと九州大学が、LPガス容器の配送最適化の共同研究を実施](https://www.softbank.jp/corp/news/press/sbkk/2021/20210913_02/)
 
 ### Experience
-- Internship in [Panasonic Corporation](https://na.panasonic.com/us/home-and-building-solutions/ventilation-indoor-air-quality/#section01) [12.Feb. 2019 - 22.Feb. 2019 in Osaka, Japan]. 
+Internship in [Panasonic Corporation](https://na.panasonic.com/us/home-and-building-solutions/ventilation-indoor-air-quality/#section01) [12.Feb. 2019 - 22.Feb. 2019 in Osaka, Japan]. 
   <br>Software Development aboud mathematical optimization using Simulated Annealing(SA).
   
-- Amplify Apps Developer in [Fixstars Corporation](https://www.fixstars.com/en/) [Feb.2021 - present in Tokyo, Japan]. 
+Amplify Apps Developer in [Fixstars Corporation](https://www.fixstars.com/en/) [Feb.2021 - present in Tokyo, Japan]. 
   Application Development aboud [Amplify Annealing Engine](https://amplify.fixstars.com/en/) using Amplify SDK.
 
 ### Patents
