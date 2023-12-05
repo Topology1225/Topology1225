@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/github/stars/Topology1225?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-<br>
-
 ## Programming Languages
 ![logo](https://img.shields.io/badge/Python-$yellow?style=plastic&logo=Python&color=blue)
 ![logo](https://img.shields.io/badge/Pytorch-$yellow?style=plastic&logo=pytorch&color=red)
@@ -63,9 +61,9 @@
 <code><img height="40" width="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
 <br>
 <code><img height="40" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
-<code><img height="40" width="200" src="https://amplify.fixstars.com/assets/img/amplify-logo-white.svg">
+<code><img height="40" width="200" src="https://amplify.fixstars.com/assets/img/amplify-logo-white.svg"></code>
 </p>
-
+  
 ## Aboud me
 + 🌱 I’m currently learning the following.
   + Mathematical Optimization
