@@ -103,6 +103,7 @@ The source code can also be found [here](https://gihyo.jp/magazine/SD/archive/20
 [The first public seminar "Science Cafe"](https://beyondai.jp/contents/2021/09/17/20210917/?lang=en), 17.Sep.2021
 
 ### News
+[NISTが開催した映像解析コンテスト「TRECVID 2023」の映像検索部門と映像説明文生成部門で世界最高水準の精度を達成](https://www.softbank.jp/corp/news/press/sbkk/2023/20231201_01/)
 [ソフトバンクと九州大学が、LPガス容器の配送最適化の共同研究を実施](https://www.softbank.jp/corp/news/press/sbkk/2021/20210913_02/)
 
 ### Experience
@@ -113,7 +114,8 @@ Amplify Apps Developer in [Fixstars Corporation](https://www.fixstars.com/en/) [
   Application Development aboud [Amplify Annealing Engine](https://amplify.fixstars.com/en/) using Amplify SDK.
 
 ### Patents
-  特願2021-136392
+  特願2023-157707 (出願中)
+  特願2021-136392 (公開済み): https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303009118398320
   
 ### Collaborator
   Nariaki Tateiwa: https://nariaki3551.github.io/index.html 
