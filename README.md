@@ -30,6 +30,9 @@
 ![logo](https://img.shields.io/badge/GitHub-$blue?style=plastic&logo=github&color=black)
 ![logo](https://img.shields.io/badge/GitLab-$blue?style=plastic&logo=gitlab&color=red)
 ![logo](https://img.shields.io/badge/Docker-$blue?style=plastic&logo=docker&color=blue)
+![logo](https://img.shields.io/badge/Snowflake-$blue?style=plastic&logo=snowflake&color=blue)
+![logo](https://img.shields.io/badge/postgresql-$blue?style=plastic&logo=postgresql&color=blue)
+
 
 ## Learning Languages
 ![logo](https://img.shields.io/badge/Rust-$yellow?style=plastic&logo=Rust&color=black)
@@ -82,7 +85,7 @@
 + B.S. in Mathematics, Kyushu University(Apr.2016 - Mar.2020 in Japan)
 
 ### Publications
- + A paper I co-authored has been accepted to ACL2024!
+ + A paper I co-authored has been accepted to ACL2024
  + 植木 一也（明星大），佐藤 開，鈴木 裕真，髙田 拓実，宅島 寛貴，堀 隆之（ソフトバンク）, 映像検索の精度向上施策：画像生成モデルを用いたクエリ拡張, https://www.tc-iaip.org/dia/2024/program.html#os1
  + Keiichiro Yamamura, **Haruki Sato**, Nariaki Tateiwa, Nozomi Hata, Katsuki Fujisawa, Issa Oe, Hiroki Ishikura, Toru Mitsutake, Diversified Adversarial Attacks based on Conjugate Gradient Method, Thirty-ninth International Conference on Machine Learning(ICML2022), paper link is https://icml.cc/Conferences/2022/Schedule?showEvent=16955.
  + Akihiro Yoshida, **Haruki Sato**, Shiori Uchiumi, Nariaki Tateiwa, Daisuke Kataoka, Akira Tanaka, Nozomi Hata, Yousuke Yatsushiro, Ayano Ide, Hiroki Ishikura, Shingo Egi, Miyu Fujii, Hiroki Kai, Katsuki Fujisawa, Long-Term Optimal Delivery Planning for Replacing the Liquefied Petroleum Gas Cylinder, arxiv preprint, paper link is [here](https://arxiv.org/abs/2112.12530?context=cs.DM).
