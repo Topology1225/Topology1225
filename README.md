@@ -108,11 +108,18 @@ The source code can also be found [here](https://gihyo.jp/magazine/SD/archive/20
 [ソフトバンクと九州大学が、LPガス容器の配送最適化の共同研究を実施](https://www.softbank.jp/corp/news/press/sbkk/2021/20210913_02/)
 
 ### Experience
-Internship in [Panasonic Corporation](https://na.panasonic.com/us/home-and-building-solutions/ventilation-indoor-air-quality/#section01) [12.Feb. 2019 - 22.Feb. 2019 in Osaka, Japan]. 
-  <br>Software Development aboud mathematical optimization using Simulated Annealing(SA).
-  
-Amplify Apps Developer in [Fixstars Corporation](https://www.fixstars.com/en/) [Feb.2021 - present in Tokyo, Japan]. 
-  Application Development aboud [Amplify Annealing Engine](https://amplify.fixstars.com/en/) using Amplify SDK.
+**Data Scientist at SoftBank Corp.**
+April 1, 2022 - Present in Tokyo, Japan
+
+**Internship at Panasonic Corporation**
+February 12, 2019 - February 22, 2019 in Osaka, Japan
+
+Software development focused on mathematical optimization using Simulated Annealing (SA).
+
+**Amplify Apps Developer at Fixstars Corporation**
+February 2021 - Present in Tokyo, Japan
+
+Application development for the Amplify Annealing Engine using the Amplify SDK.
 
 ### Patents
   特願2023-157707 (出願中)
