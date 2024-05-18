@@ -109,17 +109,18 @@ The source code can also be found [here](https://gihyo.jp/magazine/SD/archive/20
 
 ### Experience
 **Data Scientist at SoftBank Corp.**
-April 1, 2022 - Present in Tokyo, Japan
+April 1, 2022 - Present
+Tokyo, Japan
 
-**Internship at Panasonic Corporation**
-February 12, 2019 - February 22, 2019 in Osaka, Japan
-
-Software development focused on mathematical optimization using Simulated Annealing (SA).
-
+**Intern at Panasonic Corporation**
+February 12, 2019 - February 22, 2019
+Osaka, Japan
+- Engaged in software development concerning mathematical optimization using Simulated Annealing (SA).
+  
 **Amplify Apps Developer at Fixstars Corporation**
-February 2021 - Present in Tokyo, Japan
-
-Application development for the Amplify Annealing Engine using the Amplify SDK.
+February 2021 - Present
+Tokyo, Japan
+- Developed applications for the Amplify Annealing Engine utilizing the Amplify SDK.
 
 ### Patents
   特願2023-157707 (出願中)
