@@ -84,9 +84,15 @@
 + M.S. in Mathematics, Kyushu University(Apr.2020 - Mar.2022 in Japan)
 + B.S. in Mathematics, Kyushu University(Apr.2016 - Mar.2020 in Japan)
 
-### Publications
- + A paper I co-authored has been accepted to ACL2024
- + 植木 一也（明星大），佐藤 開，鈴木 裕真，髙田 拓実，宅島 寛貴，堀 隆之（ソフトバンク）, 映像検索の精度向上施策：画像生成モデルを用いたクエリ拡張, https://www.tc-iaip.org/dia/2024/program.html#os1
+### Publications 
+ + Kazuya Ueki, Yuma Suzuki, Haruki Sato, Takayuki Hori, Takumi Takada, Hiroki Takushima, Hayato Tanoue, Aiswariya Manoj Kumar, Hiroki Nishihara, Elevating Video Retrieval Capabilities: A Cross-Modal Approach Utilizing Text and Image Generative Models, CBMI2024
+ + Takumi Takada, Yuma Suzuki, Hiroki Takushima, Hayato Tanoue, Haruki Sato, Aiswariya Kumar, Hiroki Nishihara, Takayuki Hori, Kazuya Ueki, Direct Metric Optimization for Image Captioning through Reward-Weighted Augmented Data Utilization, ACL2024
+ + Hayato Tanoue, Hiroki Nishihara, Yuma Suzuki, Takayuki Hori, Hiroki Takushima, Haruki Sato, Takumi Takada, Aiswariya Manoj Kumar, Kazuya Ueki, Softbank-Meisei Submission to the Ego4D Moment Queries Challenge and EgoExo4D Hand Pose Challenge 2024, CVPR2024 workshop
+ + 植木 一也，鈴木 裕真，佐藤 開，堀 隆之，宅島 寛貴，髙田 拓実，田之上 隼人，Aiswariya Manoj Kumar，西原 大輝，マルチモーダル映像検索 ～テキスト・画像生成モデルを駆使した検索の高精度化～, MIRU2024
+ + Kazuya Ueki, Yuma Suzuki, Haruki Sato, Takayuki Hori, Hiroki Takushima, Takumi Takada, Hayato Tanoue, Aiswariya Manoj Kumar, Hiroki Nishihara, Integration of Text and Image Generation for Advanced Video Search, ICMLT2024
+ + Kazuya Ueki, Haruki Sato, Yuma Suzuki, Takumi Takada, Hiroki Takushima, Takayuki Hori, High-Precision Video Retrieval through Image Generation, IEVC2024
+ + 植木 一也（明星大），佐藤 開，鈴木 裕真，髙田 拓実，宅島 寛貴，堀 隆之（ソフトバンク）, 映像検索の精度向上施策：画像生成モデルを用いたクエリ拡張, https://www.tc-iaip.org/dia/2024/program.html#os1, DIA2024
+ + Takayuki Hori, Kazuya Ueki, Yuma Suzuki, Hiroki Takushima, Hayato Tanoue, Haruki Sato, Takumi Takada, Aiswariya Manoj Kumar, Waseda_Meisei_SoftBank at Video Browser Showdown 2024, MMM2024
  + Keiichiro Yamamura, **Haruki Sato**, Nariaki Tateiwa, Nozomi Hata, Katsuki Fujisawa, Issa Oe, Hiroki Ishikura, Toru Mitsutake, Diversified Adversarial Attacks based on Conjugate Gradient Method, Thirty-ninth International Conference on Machine Learning(ICML2022), paper link is https://icml.cc/Conferences/2022/Schedule?showEvent=16955.
  + Akihiro Yoshida, **Haruki Sato**, Shiori Uchiumi, Nariaki Tateiwa, Daisuke Kataoka, Akira Tanaka, Nozomi Hata, Yousuke Yatsushiro, Ayano Ide, Hiroki Ishikura, Shingo Egi, Miyu Fujii, Hiroki Kai, Katsuki Fujisawa, Long-Term Optimal Delivery Planning for Replacing the Liquefied Petroleum Gas Cylinder, arxiv preprint, paper link is [here](https://arxiv.org/abs/2112.12530?context=cs.DM).
   
