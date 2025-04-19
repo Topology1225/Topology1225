@@ -85,6 +85,9 @@
 + B.S. in Mathematics, Kyushu University(Apr.2016 - Mar.2020 in Japan)
 
 ### Publications 
+ 	
+
++ 植木 一也（明星大），佐藤 開，鈴木 裕真，堀 隆之，宅島 寛貴，髙田 拓実，田之上 隼人，Aiswariya Manoj Kumar，西原 大輝（ソフトバンク）, 大規模映像検索に向けたCLIPモデルの最適化, DIA2025
  + Kazuya Ueki, Yuma Suzuki, **Haruki Sato**, Takayuki Hori, Takumi Takada, Hiroki Takushima, Hayato Tanoue, Aiswariya Manoj Kumar, Hiroki Nishihara, Elevating Video Retrieval Capabilities: A Cross-Modal Approach Utilizing Text and Image Generative Models, CBMI2024
  + Takumi Takada, Yuma Suzuki, Hiroki Takushima, Hayato Tanoue, **Haruki Sato**, Aiswariya Kumar, Hiroki Nishihara, Takayuki Hori, Kazuya Ueki, Direct Metric Optimization for Image Captioning through Reward-Weighted Augmented Data Utilization, ACL2024
  + Hayato Tanoue, Hiroki Nishihara, Yuma Suzuki, Takayuki Hori, Hiroki Takushima, **Haruki Sato**, Takumi Takada, Aiswariya Manoj Kumar, Kazuya Ueki, Softbank-Meisei Submission to the Ego4D Moment Queries Challenge and EgoExo4D Hand Pose Challenge 2024, CVPR2024 workshop
